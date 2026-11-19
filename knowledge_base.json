@@ -1,0 +1,418 @@
+[
+  {
+    "id": "history-founding",
+    "category": "Team History",
+    "title": "Founding as the Cleveland Rams",
+    "content": "The Rams were founded in 1936 in Cleveland, Ohio, and joined the NFL in 1937. As the Cleveland Rams they won the 1945 NFL Championship, beating Washington 15-14.",
+    "years": [
+      1936,
+      1937,
+      1945
+    ],
+    "tags": [
+      "founding",
+      "cleveland",
+      "1945",
+      "nfl championship",
+      "origin"
+    ],
+    "source": "Pro Football Reference"
+  },
+  {
+    "id": "history-la-move",
+    "category": "Team History",
+    "title": "First move to Los Angeles",
+    "content": "The team moved from Cleveland to Los Angeles in 1946, becoming the first major professional sports team on the West Coast. They played at the Los Angeles Memorial Coliseum until 1979, and won the 1951 NFL Championship there, beating the Cleveland Browns 24-17.",
+    "years": [
+      1946,
+      1951,
+      1979
+    ],
+    "tags": [
+      "los angeles",
+      "coliseum",
+      "1951",
+      "move",
+      "relocation"
+    ],
+    "source": "Rams.com"
+  },
+  {
+    "id": "history-anaheim",
+    "category": "Team History",
+    "title": "Years in Anaheim",
+    "content": "From 1980 to 1994 the Rams played their home games at Anaheim Stadium. They reached Super Bowl XIV in January 1980 and lost to the Pittsburgh Steelers 31-19.",
+    "years": [
+      1980,
+      1994
+    ],
+    "tags": [
+      "anaheim",
+      "super bowl xiv",
+      "steelers",
+      "stadium"
+    ],
+    "source": "Pro Football Reference"
+  },
+  {
+    "id": "history-st-louis",
+    "category": "Team History",
+    "title": "St. Louis era",
+    "content": "The Rams moved to St. Louis in 1995 and played there through the 2015 season, mostly at the Trans World Dome (later the Edward Jones Dome). During that period they were known as the St. Louis Rams.",
+    "years": [
+      1995,
+      2015
+    ],
+    "tags": [
+      "st. louis",
+      "relocation",
+      "dome",
+      "move"
+    ],
+    "source": "Rams.com"
+  },
+  {
+    "id": "history-return",
+    "category": "Team History",
+    "title": "Return to Los Angeles",
+    "content": "The Rams returned to Los Angeles in 2016. They played at the Los Angeles Memorial Coliseum from 2016 to 2019, then moved into SoFi Stadium in 2020.",
+    "years": [
+      2016,
+      2019,
+      2020
+    ],
+    "tags": [
+      "los angeles",
+      "return",
+      "coliseum",
+      "sofi",
+      "move"
+    ],
+    "source": "NFL.com"
+  },
+  {
+    "id": "champ-sbxxxiv",
+    "category": "Championships",
+    "title": "Super Bowl XXXIV",
+    "content": "The St. Louis Rams won Super Bowl XXXIV on January 30, 2000, beating the Tennessee Titans 23-16 in Atlanta. The game ended with linebacker Mike Jones tackling Kevin Dyson one yard short of the goal line. Quarterback Kurt Warner was named MVP.",
+    "years": [
+      2000
+    ],
+    "tags": [
+      "super bowl",
+      "xxxiv",
+      "titans",
+      "kurt warner",
+      "one yard short",
+      "championship"
+    ],
+    "source": "NFL Super Bowl Records"
+  },
+  {
+    "id": "champ-sblvi",
+    "category": "Championships",
+    "title": "Super Bowl LVI",
+    "content": "The Los Angeles Rams won Super Bowl LVI on February 13, 2022, beating the Cincinnati Bengals 23-20 at SoFi Stadium. Wide receiver Cooper Kupp was named MVP. The Rams became the first team to win a Super Bowl in their own home stadium.",
+    "years": [
+      2022
+    ],
+    "tags": [
+      "super bowl",
+      "lvi",
+      "bengals",
+      "cooper kupp",
+      "mvp",
+      "championship",
+      "sofi"
+    ],
+    "source": "NFL Super Bowl Records"
+  },
+  {
+    "id": "champ-summary",
+    "category": "Championships",
+    "title": "Championship and Super Bowl record",
+    "content": "The Rams have won two Super Bowls (XXXIV and LVI) and two earlier NFL Championships (1945 and 1951). They have also lost three Super Bowls: XIV to the Steelers (1980), XXXVI to the Patriots 20-17 (2002), and LIII to the Patriots 13-3 (2019).",
+    "years": [
+      1945,
+      1951,
+      1980,
+      2000,
+      2002,
+      2019,
+      2022
+    ],
+    "tags": [
+      "super bowl",
+      "titles",
+      "how many",
+      "losses",
+      "patriots",
+      "steelers",
+      "record"
+    ],
+    "source": "Pro Football Reference"
+  },
+  {
+    "id": "stadium-sofi",
+    "category": "Stadium",
+    "title": "SoFi Stadium",
+    "content": "The Rams play their home games at SoFi Stadium in Inglewood, California, which opened in 2020. It seats about 70,000 and can expand to about 100,000 for major events. The Los Angeles Chargers share the stadium, and it hosted Super Bowl LVI.",
+    "years": [
+      2020,
+      2022
+    ],
+    "tags": [
+      "sofi",
+      "inglewood",
+      "stadium",
+      "home",
+      "chargers",
+      "capacity"
+    ],
+    "source": "SoFi Stadium Official Website"
+  },
+  {
+    "id": "identity-team",
+    "category": "Team Identity",
+    "title": "League, division and colors",
+    "content": "The Rams compete in the NFL's NFC West alongside the Arizona Cardinals, San Francisco 49ers and Seattle Seahawks. Their colors are royal blue and sol (yellow), their logo is a ram's horn, and their mascot is Rampage.",
+    "years": [],
+    "tags": [
+      "nfc west",
+      "division",
+      "colors",
+      "logo",
+      "mascot",
+      "rampage",
+      "49ers",
+      "seahawks",
+      "cardinals"
+    ],
+    "source": "NFL.com"
+  },
+  {
+    "id": "era-greatest-show",
+    "category": "Eras",
+    "title": "The Greatest Show on Turf",
+    "content": "\"The Greatest Show on Turf\" was the Rams' high-scoring offense from 1999 to 2001. It featured quarterback Kurt Warner, running back Marshall Faulk, and receivers Isaac Bruce and Torry Holt, and the 1999 team scored 526 points on the way to the Super Bowl XXXIV title.",
+    "years": [
+      1999,
+      2000,
+      2001
+    ],
+    "tags": [
+      "greatest show on turf",
+      "kurt warner",
+      "marshall faulk",
+      "isaac bruce",
+      "torry holt",
+      "offense",
+      "1999"
+    ],
+    "source": "Pro Football Reference"
+  },
+  {
+    "id": "era-fearsome-foursome",
+    "category": "Eras",
+    "title": "The Fearsome Foursome",
+    "content": "The Fearsome Foursome was the Rams' dominant defensive line of the 1960s: Deacon Jones, Merlin Olsen, Rosey Grier and Lamar Lundy. Deacon Jones is credited with coining the term \"sack\".",
+    "years": [
+      1960
+    ],
+    "tags": [
+      "fearsome foursome",
+      "deacon jones",
+      "merlin olsen",
+      "defensive line",
+      "1960s",
+      "sack"
+    ],
+    "source": "Pro Football Hall of Fame"
+  },
+  {
+    "id": "coach-mcvay",
+    "category": "Coaches",
+    "title": "Sean McVay",
+    "content": "Sean McVay was hired as Rams head coach in January 2017 at age 30, the youngest head coach in modern NFL history. He has led the Rams to two Super Bowls, LIII and LVI, winning LVI.",
+    "years": [
+      2017,
+      2019,
+      2022
+    ],
+    "tags": [
+      "sean mcvay",
+      "head coach",
+      "coach",
+      "youngest",
+      "super bowl"
+    ],
+    "source": "Rams.com"
+  },
+  {
+    "id": "player-stafford",
+    "category": "Players",
+    "title": "Matthew Stafford",
+    "content": "Matthew Stafford joined the Rams in 2021 in a trade with the Detroit Lions that sent Jared Goff and draft picks the other way. He quarterbacked the Rams to victory in Super Bowl LVI in his first season with the team.",
+    "years": [
+      2021,
+      2022
+    ],
+    "tags": [
+      "matthew stafford",
+      "quarterback",
+      "qb",
+      "trade",
+      "lions",
+      "super bowl lvi"
+    ],
+    "source": "NFL Player Profile"
+  },
+  {
+    "id": "player-kupp",
+    "category": "Players",
+    "title": "Cooper Kupp",
+    "content": "Cooper Kupp, a third-round pick from Eastern Washington in 2017, had a historic 2021 season: 145 receptions, 1,947 receiving yards and 16 touchdowns, leading the NFL in all three. He was named Offensive Player of the Year and Super Bowl LVI MVP.",
+    "years": [
+      2017,
+      2021,
+      2022
+    ],
+    "tags": [
+      "cooper kupp",
+      "wide receiver",
+      "wr",
+      "triple crown",
+      "mvp",
+      "2021"
+    ],
+    "source": "NFL Player Profile"
+  },
+  {
+    "id": "player-donald",
+    "category": "Players",
+    "title": "Aaron Donald",
+    "content": "Aaron Donald, a defensive tackle drafted 13th overall in 2014 out of Pittsburgh, won NFL Defensive Player of the Year three times (2017, 2018 and 2020) and was a key part of the Super Bowl LVI win. He retired in March 2024.",
+    "years": [
+      2014,
+      2017,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "tags": [
+      "aaron donald",
+      "defensive tackle",
+      "dpoy",
+      "defense",
+      "retired",
+      "pass rush"
+    ],
+    "source": "NFL Player Profile"
+  },
+  {
+    "id": "player-dickerson",
+    "category": "Players",
+    "title": "Eric Dickerson",
+    "content": "Eric Dickerson rushed for 2,105 yards with the Rams in 1984, still the NFL single-season rushing record. He is in the Pro Football Hall of Fame.",
+    "years": [
+      1984
+    ],
+    "tags": [
+      "eric dickerson",
+      "running back",
+      "rb",
+      "rushing record",
+      "2105",
+      "1984"
+    ],
+    "source": "Pro Football Hall of Fame"
+  },
+  {
+    "id": "legends-hof",
+    "category": "Legends",
+    "title": "Hall of Famers",
+    "content": "Pro Football Hall of Famers who played for the Rams include Bob Waterfield, Norm Van Brocklin, Elroy \"Crazylegs\" Hirsch, Tom Fears, Deacon Jones, Merlin Olsen, Jack Youngblood, Eric Dickerson, Orlando Pace, Kurt Warner, Marshall Faulk and Isaac Bruce.",
+    "years": [],
+    "tags": [
+      "hall of fame",
+      "legends",
+      "greatest players",
+      "hof",
+      "all time"
+    ],
+    "source": "Pro Football Hall of Fame"
+  },
+  {
+    "id": "champ-sbliii",
+    "category": "Championships",
+    "title": "Super Bowl LIII loss",
+    "content": "The Los Angeles Rams lost Super Bowl LIII to the New England Patriots 13-3 on February 3, 2019, in Atlanta. It was the lowest-scoring Super Bowl in history.",
+    "years": [
+      2019
+    ],
+    "tags": [
+      "super bowl",
+      "liii",
+      "patriots",
+      "loss",
+      "lost",
+      "beat",
+      "defeat",
+      "2019",
+      "atlanta",
+      "tom brady"
+    ],
+    "source": "NFL Super Bowl Records"
+  },
+  {
+    "id": "champ-sbxxxvi",
+    "category": "Championships",
+    "title": "Super Bowl XXXVI loss",
+    "content": "The St. Louis Rams lost Super Bowl XXXVI to the New England Patriots 20-17 on February 3, 2002, in New Orleans, on a last-second field goal by Adam Vinatieri.",
+    "years": [
+      2002
+    ],
+    "tags": [
+      "super bowl",
+      "xxxvi",
+      "patriots",
+      "loss",
+      "lost",
+      "beat",
+      "defeat",
+      "2002",
+      "new orleans",
+      "vinatieri"
+    ],
+    "source": "NFL Super Bowl Records"
+  },
+  {
+    "id": "stadium-history",
+    "category": "Stadium",
+    "title": "Every home stadium in Rams history",
+    "content": "The Rams have played their home games in Cleveland (1936-1945), at the Los Angeles Memorial Coliseum (1946-1979), at Anaheim Stadium (1980-1994), at the Trans World Dome / Edward Jones Dome in St. Louis (1995-2015), back at the Coliseum (2016-2019), and at SoFi Stadium in Inglewood since 2020.",
+    "years": [
+      1936,
+      1946,
+      1980,
+      1995,
+      2016,
+      2020
+    ],
+    "tags": [
+      "where have the rams played",
+      "home stadiums",
+      "venues",
+      "all stadiums",
+      "cities",
+      "locations",
+      "coliseum",
+      "anaheim",
+      "st. louis",
+      "sofi",
+      "cleveland"
+    ],
+    "source": "Rams.com"
+  }
+]
